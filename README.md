@@ -55,4 +55,4 @@ Some chat messages and menus haven't been confirmed in the real game yet, and th
 
 ---
 
-*Made by rasmushk. Not affiliated with Hypixel or Mojang. This repository only hosts release builds.*
+*Not affiliated with Hypixel or Mojang. This repository only hosts release builds.*
